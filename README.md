@@ -1,11 +1,11 @@
 <div align="center">
 
-# [Moderna](https://modernatx.com) (the vaccine company) uses the domain [`modernatx.com`](https://modernatx.com), not `txmoderna.com`.
+<h1><a href="https://modernatx.com">Moderna</a> <sup>(the vaccine company)</sup> uses the domain <a href="https://modernatx.com"><code>modernatx.com</code></a>, not <code>txmoderna.com</code>.
 
 ---
 
-It seems as if no one learns from the mistakes of https://docs.monadical.com/s/equifax-security-incident
+It seems as if no one learns from the mistakes of <a href="https://docs.monadical.com/s/equifax-security-incident">Equifax Security 2017</a>.
 
-> Hey Moderna: If you're going to choose a domain that's going to be commonly mistyped, at least buy the alternate versions so that hackers cant use it for phishing.
+<quot>Hey Moderna: If you're going to choose a domain that's going to be commonly mistyped, at least buy the alternate versions so that hackers can't use it to mislead/phish people.</quot>
 
 </div>
