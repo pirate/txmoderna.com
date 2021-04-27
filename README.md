@@ -1,6 +1,6 @@
 <div align="center">
 
-[Moderna](https://modernatx.com) (the vaccine company) uses the domain [`modernatx.com`](https://modernatx.com), not `txmoderna.com`.
+# [Moderna](https://modernatx.com) (the vaccine company) uses the domain [`modernatx.com`](https://modernatx.com), not `txmoderna.com`.
 
 ---
 
